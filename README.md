@@ -1,2 +1,1 @@
-# hmm-word-segmentation
- Chinese word segmentation using Hidden Markov Model (HMM)
+# Chinese Word Segmentation using Hidden Markov Model (HMM)
